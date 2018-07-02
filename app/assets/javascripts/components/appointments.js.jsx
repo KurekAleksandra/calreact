@@ -1,4 +1,4 @@
-var Appointments = createReactClass({
+var Appointments = React.createClass({
 
     render: function() {
         return (
